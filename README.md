@@ -15,3 +15,5 @@ The repository is organized as follows:
 ## Track My C++ Learning Progress
 
 Track my C++ learning progress [here](https://github.com/Aadit017/cpp_prc).
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aadit017?theme=dark&font=Arimo&ext=activity)
